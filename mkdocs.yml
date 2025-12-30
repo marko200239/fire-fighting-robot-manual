@@ -1,0 +1,12 @@
+site_name: 消防機器人維修技術手冊
+theme:
+  name: material
+  language: zh-TW
+  features:
+    - navigation.expand
+    - search.highlight
+    - search.suggest
+
+nav:
+  - 首頁: index.md
+  - 水柱水霧馬達維修: arm_repair.md
